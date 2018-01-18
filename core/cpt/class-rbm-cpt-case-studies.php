@@ -14,7 +14,6 @@ class RBM_CPT_Case_Studies extends RBM_CPT {
 	public $label_plural = null;
 	public $labels = array();
 	public $icon = 'welcome-write-blog';
-	public $p2p = 'download';
 	public $post_args = array(
 		'hierarchical' => true,
 		'supports'     => array( 'title', 'editor', 'author', 'thumbnail' ),

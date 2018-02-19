@@ -19,7 +19,7 @@ class RBM_CPT_Case_Studies extends RBM_CPT {
 		'supports'     => array( 'title', 'editor', 'author', 'thumbnail' ),
 		'has_archive'  => true,
 		'rewrite'      => array(
-			'slug'       => 'docs',
+			'slug'       => 'case-study',
 			'with_front' => false,
 			'feeds'      => false,
 			'pages'      => true

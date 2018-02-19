@@ -6,6 +6,8 @@
  * Author: Eric Defore
  * Author URI: http://realbigmarketing.com
  * Text Domain: rbm-case-studies
+ * GitHub Plugin URI: realbig/rbm-case-studies-cpt
+ * GitHub Branch: master
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: RBM Case Studies CPT
  * Description: Creates Case Studies custom post types and its related Fields.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Eric Defore
  * Author URI: http://realbigmarketing.com
  * Text Domain: rbm-case-studies

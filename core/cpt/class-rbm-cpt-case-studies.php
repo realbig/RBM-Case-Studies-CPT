@@ -15,9 +15,9 @@ class RBM_CPT_Case_Studies extends RBM_CPT {
 	public $labels = array();
 	public $icon = 'welcome-write-blog';
 	public $post_args = array(
-		'hierarchical' => true,
+		'hierarchical' => false,
 		'supports'     => array( 'title', 'editor', 'author', 'thumbnail' ),
-		'has_archive'  => false,
+		'has_archive'  => true,
 		'rewrite'      => array(
 			'slug'       => 'docs',
 			'with_front' => false,
